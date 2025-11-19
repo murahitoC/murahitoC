@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @murahitoC
-- 👀 I’m interested in CSGO
-- 🌱 I’m currently learning computer
+- 👋 Hi, I’m @Mur4J1nn
+- 👀 I’m interested in js/py
+- 🌱 I’m currently drinking cafe
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wechat:A3374386561
+- 📫 How to reach me wechat:_BakerSt
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
